@@ -1,0 +1,42 @@
+C:\Users\jivko\source\repos\EmployeeManagerProject\EmployeeManagerProject\bin\Debug\EmployeeManagerProject.exe.config
+C:\Users\jivko\source\repos\EmployeeManagerProject\EmployeeManagerProject\bin\Debug\EmployeeManagerProject.exe
+C:\Users\jivko\source\repos\EmployeeManagerProject\EmployeeManagerProject\bin\Debug\EmployeeManagerProject.pdb
+C:\Users\jivko\source\repos\EmployeeManagerProject\EmployeeManagerProject\obj\Debug\EmployeeManagerProject.AboutTheAuthorForm.resources
+C:\Users\jivko\source\repos\EmployeeManagerProject\EmployeeManagerProject\obj\Debug\EmployeeManagerProject.Properties.Resources.resources
+C:\Users\jivko\source\repos\EmployeeManagerProject\EmployeeManagerProject\obj\Debug\EmployeeManagerProject.csproj.GenerateResource.cache
+C:\Users\jivko\source\repos\EmployeeManagerProject\EmployeeManagerProject\obj\Debug\EmployeeManagerProject.csproj.CoreCompileInputs.cache
+C:\Users\jivko\source\repos\EmployeeManagerProject\EmployeeManagerProject\obj\Debug\EmployeeManagerProject.exe
+C:\Users\jivko\source\repos\EmployeeManagerProject\EmployeeManagerProject\obj\Debug\EmployeeManagerProject.pdb
+C:\Users\jivko\source\repos\EmployeeManagerProject\EmployeeManagerProject\obj\Debug\EmployeeManagerProject.StartForm.resources
+C:\Users\jivko\source\repos\EmployeeManagerProject\EmployeeManagerProject\obj\Debug\EmployeeManagerProject.AddEmployeeForm.resources
+C:\Users\jivko\source\repos\EmployeeManagerProject\EmployeeManagerProject\obj\Debug\EmployeeManagerProject.csprojAssemblyReference.cache
+C:\Users\angel\Desktop\EmployeeManagerProject\EmployeeManagerProject\EmployeeManagerProject\bin\Debug\EmployeeManagerProject.exe.config
+C:\Users\angel\Desktop\EmployeeManagerProject\EmployeeManagerProject\EmployeeManagerProject\bin\Debug\EmployeeManagerProject.exe
+C:\Users\angel\Desktop\EmployeeManagerProject\EmployeeManagerProject\EmployeeManagerProject\bin\Debug\EmployeeManagerProject.pdb
+C:\Users\angel\Desktop\EmployeeManagerProject\EmployeeManagerProject\EmployeeManagerProject\obj\Debug\EmployeeManagerProject.csprojAssemblyReference.cache
+C:\Users\angel\Desktop\EmployeeManagerProject\EmployeeManagerProject\EmployeeManagerProject\obj\Debug\EmployeeManagerProject.AboutTheAuthorForm.resources
+C:\Users\angel\Desktop\EmployeeManagerProject\EmployeeManagerProject\EmployeeManagerProject\obj\Debug\EmployeeManagerProject.AddEmployeeForm.resources
+C:\Users\angel\Desktop\EmployeeManagerProject\EmployeeManagerProject\EmployeeManagerProject\obj\Debug\EmployeeManagerProject.Properties.Resources.resources
+C:\Users\angel\Desktop\EmployeeManagerProject\EmployeeManagerProject\EmployeeManagerProject\obj\Debug\EmployeeManagerProject.StartForm.resources
+C:\Users\angel\Desktop\EmployeeManagerProject\EmployeeManagerProject\EmployeeManagerProject\obj\Debug\EmployeeManagerProject.csproj.GenerateResource.cache
+C:\Users\angel\Desktop\EmployeeManagerProject\EmployeeManagerProject\EmployeeManagerProject\obj\Debug\EmployeeManagerProject.csproj.CoreCompileInputs.cache
+C:\Users\angel\Desktop\EmployeeManagerProject\EmployeeManagerProject\EmployeeManagerProject\obj\Debug\EmployeeManagerProject.exe
+C:\Users\angel\Desktop\EmployeeManagerProject\EmployeeManagerProject\EmployeeManagerProject\obj\Debug\EmployeeManagerProject.pdb
+C:\Users\angel\Desktop\EmployeeManagerProject\EmployeeManagerProject\EmployeeManagerProject\obj\Debug\EmployeeManagerProject.DeleteEmployeeForm.resources
+C:\Users\angel\Desktop\EmployeeManagerProject\EmployeeManagerProject\EmployeeManagerProject\obj\Debug\EmployeeManagerProject.ChangeSalaryForm.resources
+C:\Users\angel\Desktop\EmployeeManagerProject\EmployeeManagerProject\EmployeeManagerProject\obj\Debug\EmployeeManagerProject.EmployeesInformation.resources
+D:\UNI\1 Курс\2-ри семестър\ГПИ (C#)\Упражнения\EmployeeManagerProject\EmployeeManagerProject\EmployeeManagerProject\EmployeeManagerProject\bin\Debug\EmployeeManagerProject.exe.config
+D:\UNI\1 Курс\2-ри семестър\ГПИ (C#)\Упражнения\EmployeeManagerProject\EmployeeManagerProject\EmployeeManagerProject\EmployeeManagerProject\bin\Debug\EmployeeManagerProject.exe
+D:\UNI\1 Курс\2-ри семестър\ГПИ (C#)\Упражнения\EmployeeManagerProject\EmployeeManagerProject\EmployeeManagerProject\EmployeeManagerProject\bin\Debug\EmployeeManagerProject.pdb
+D:\UNI\1 Курс\2-ри семестър\ГПИ (C#)\Упражнения\EmployeeManagerProject\EmployeeManagerProject\EmployeeManagerProject\EmployeeManagerProject\obj\Debug\EmployeeManagerProject.csprojAssemblyReference.cache
+D:\UNI\1 Курс\2-ри семестър\ГПИ (C#)\Упражнения\EmployeeManagerProject\EmployeeManagerProject\EmployeeManagerProject\EmployeeManagerProject\obj\Debug\EmployeeManagerProject.AboutTheAuthorForm.resources
+D:\UNI\1 Курс\2-ри семестър\ГПИ (C#)\Упражнения\EmployeeManagerProject\EmployeeManagerProject\EmployeeManagerProject\EmployeeManagerProject\obj\Debug\EmployeeManagerProject.AddEmployeeForm.resources
+D:\UNI\1 Курс\2-ри семестър\ГПИ (C#)\Упражнения\EmployeeManagerProject\EmployeeManagerProject\EmployeeManagerProject\EmployeeManagerProject\obj\Debug\EmployeeManagerProject.ChangeSalaryForm.resources
+D:\UNI\1 Курс\2-ри семестър\ГПИ (C#)\Упражнения\EmployeeManagerProject\EmployeeManagerProject\EmployeeManagerProject\EmployeeManagerProject\obj\Debug\EmployeeManagerProject.DeleteEmployeeForm.resources
+D:\UNI\1 Курс\2-ри семестър\ГПИ (C#)\Упражнения\EmployeeManagerProject\EmployeeManagerProject\EmployeeManagerProject\EmployeeManagerProject\obj\Debug\EmployeeManagerProject.EmployeesInformation.resources
+D:\UNI\1 Курс\2-ри семестър\ГПИ (C#)\Упражнения\EmployeeManagerProject\EmployeeManagerProject\EmployeeManagerProject\EmployeeManagerProject\obj\Debug\EmployeeManagerProject.Properties.Resources.resources
+D:\UNI\1 Курс\2-ри семестър\ГПИ (C#)\Упражнения\EmployeeManagerProject\EmployeeManagerProject\EmployeeManagerProject\EmployeeManagerProject\obj\Debug\EmployeeManagerProject.StartForm.resources
+D:\UNI\1 Курс\2-ри семестър\ГПИ (C#)\Упражнения\EmployeeManagerProject\EmployeeManagerProject\EmployeeManagerProject\EmployeeManagerProject\obj\Debug\EmployeeManagerProject.csproj.GenerateResource.cache
+D:\UNI\1 Курс\2-ри семестър\ГПИ (C#)\Упражнения\EmployeeManagerProject\EmployeeManagerProject\EmployeeManagerProject\EmployeeManagerProject\obj\Debug\EmployeeManagerProject.csproj.CoreCompileInputs.cache
+D:\UNI\1 Курс\2-ри семестър\ГПИ (C#)\Упражнения\EmployeeManagerProject\EmployeeManagerProject\EmployeeManagerProject\EmployeeManagerProject\obj\Debug\EmployeeManagerProject.exe
+D:\UNI\1 Курс\2-ри семестър\ГПИ (C#)\Упражнения\EmployeeManagerProject\EmployeeManagerProject\EmployeeManagerProject\EmployeeManagerProject\obj\Debug\EmployeeManagerProject.pdb
